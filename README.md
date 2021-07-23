@@ -11,7 +11,7 @@ Burger Order problem based on use of IPC, threads and semaphores.
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1. Requirements`   | system design
+`1. Requirements`   | System design
 `2. Design`         | Structural Diagram
 `3. Implementation` | C-Code and documentation
 `4. Output`      | Test and Output
